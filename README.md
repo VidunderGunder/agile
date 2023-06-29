@@ -85,8 +85,6 @@ She make tribe happy 😃, work good, eat good. 🍖 She magic ✨, but no witch
 
 ### 🦅 Scout (Product Owner)
 
-In the caveman-style language you've requested:
-
 Product Owner, like tribe scout. He not just watch, not just wait. He decide, he direct. He know what good for tribe, what tribe need. 🕵️‍♀️
 
 He look at big mammoth, look at small rabbit, look at fast fish. He think, he choose. He say, 'We need mammoth now, rabbit later, fish no need.' 🐟🐇🐘
