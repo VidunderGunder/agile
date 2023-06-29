@@ -74,6 +74,7 @@ Role | Who | What
 🧌 Rock Shaman (Tech Lead) | Magne | How make magic with rock
 🦅 Scout (Product Owner) | _Missing!_ | What magic tribe must make
 🕵️ Stone Checker (Quality Assurance) | Marek & Julie | Make sure good rocks
+🦧 Rockmen (Developers) | Other man and woman | Make rock magic
 
 ### 🧙‍♀️ Agile Shaman (Agile Coach)
 
