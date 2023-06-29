@@ -119,7 +119,7 @@ He also guide tribe of code, show path, show light. He say, 'Go this way, no go 
 
 Rock Shaman, like wise elder, but more. He not just know, he teach. He not just guide, he lead. He make tribe happy, make tribe strong. Rock Shaman, big part of Agile, big part of tribe of code!
 
-### Stone Checker (Quality Assurance)
+### 🕵️ Stone Checker (Quality Assurance)
 
 Stone Checker, he like eagle eye 🦅, he watch all. He make sure spear sharp, fire hot, berry good. Stone Checker, friend of tribe, he make sure all work, all good, all quality.
 
